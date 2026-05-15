@@ -104,6 +104,7 @@ python evasao.py
 
 
 👨‍💻 Autor e Créditos
+
 Estudante: Erick Rocha Nascimento
 Docente: Marcelo Vera Cruz Diniz
 Instituição: Instituto Federal de Educação, Ciência e Tecnologia da Bahia
